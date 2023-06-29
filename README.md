@@ -14,9 +14,6 @@
 <a href="https://linkedin.com/in/deepti gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepti gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/deepti_guptaa01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepti_guptaa01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deepti_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepti_22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user9408gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9408gm" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@deeptig22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@deeptig22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deept5os8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deept5os8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptigupta222&show_icons=true&locale=en" alt="deeptigupta222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptigupta222&" alt="deeptigupta222" /></p>
+
